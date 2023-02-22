@@ -1,15 +1,7 @@
-Przykład demonstruje operacje jakie należy wykonać,
-aby stworzyć wizualizację przejazdu łazika. Można go
-potraktować jako zalążek do zadania. Należy pamiętać
-jednak, że dostarczony kod nie jest pisany obiektowo
-i wymaga gruntownej przebudowy, aby dostosować go
-do wymogów zadania.
-
-Aby skorzystać z niniejszego przykładu,
-należy przekopiować cala zawartość kartoteki
-do swojej własnej, np.
-
-  cp ~bk/edu/kpo/zad/z6-1/przyklad-animacji-lazika  ~
+Program jest projektem realizowanym w ramach zaliczenia kursu Programowania
+obiektowego.Zostal on wykonany z wykorzystaniem plikow: pliki_do_rysowania,
+bryly_wzorcowe,lacze_do_gnuplota.*, kore kazdy ze studentow otrzymal
+od prowadzacego kurs.
 
 Kartoteki:
  pliki_do_rysowania/   - jest to kartoteka robocza, w której składowane są
